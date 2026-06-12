@@ -6,6 +6,17 @@
 
 <div align="center">
 
+```
+  ┌─[leticiaoliveira-gith@github]─[~]
+  └─$ whoami --verbose
+
+  NOME        →  Letícia Oliveira
+  LOCALIZAÇÃO →  Ceará, Brasil 🌵
+  FORMAÇÃO    →  Análise e Desenvolvimento de Sistemas
+  FOCO        →  Back-End & Cibersegurança
+  STATUS      →  [ Aprendendo ] [ Construindo ] [ Evoluindo ]
+```
+
 </div>
 
 ---
@@ -24,18 +35,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 
 ### 🛠️ tech stack
 
-</div>
-
-<div align="center">
-
-**Linguagens & Marcação**
+**Linguagens e Marcação**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frameworks & Bibliotecas**
+**Frameworks e Bibliotecas**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -53,11 +60,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 
 <div align="center">
 
-### 📚 formação & cursos
-
-</div>
-
-<div align="center">
+### 📚 formação e cursos
 
 | curso | instituição | status |
 |-------|-------------|--------|
@@ -74,9 +77,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 
 ### 📊 github stats
 
-![Letícia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaoliveira-gith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0)
+![stats](https://github-readme-stats.vercel.app/api?username=leticiaoliveira-gith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoliveira-gith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoliveira-gith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0)
 
 </div>
 
@@ -93,6 +96,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=120&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
