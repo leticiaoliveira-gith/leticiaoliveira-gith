@@ -1,4 +1,6 @@
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Letícia%20Oliveira&fontSize=45&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=desenvolvedora%20em%20formação%20✨&descAlignY=58&descSize=16&descColor=a78bfa)
 
 </div>
 
