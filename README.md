@@ -6,17 +6,6 @@
 
 <div align="center">
 
-```
-  ┌─[leticiaoliveira-gith@github]─[~]
-  └─$ whoami --verbose
-
-  NOME        →  Letícia Oliveira
-  LOCALIZAÇÃO →  Ceará, Brasil 🌵
-  FORMAÇÃO    →  Análise e Desenvolvimento de Sistemas
-  FOCO        →  Back-End & Cibersegurança
-  STATUS      →  [ Aprendendo ] [ Construindo ] [ Evoluindo ]
-```
-
 </div>
 
 ---
