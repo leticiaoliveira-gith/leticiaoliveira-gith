@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Letícia%20Oliveira&fontSize=45&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=desenvolvedora%20front-end%20em%20formação%20✨&descAlignY=58&descSize=16&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Letícia%20Oliveira&fontSize=45&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=back-end%20%26%20cibersegurança%20em%20formação%20✨&descAlignY=58&descSize=16&descColor=a78bfa)
 
 </div>
 
@@ -10,11 +10,11 @@
   ┌─[leticiaoliveira-gith@github]─[~]
   └─$ whoami --verbose
 
-  NOME      →  Letícia Oliveira
+  NOME        →  Letícia Oliveira
   LOCALIZAÇÃO →  Ceará, Brasil 🌵
-  FORMAÇÃO  →  Análise e Desenvolvimento de Sistemas
-  FOCO      →  Front-End Development
-  STATUS    →  [ Aprendendo ] [ Construindo ] [ Evoluindo ]
+  FORMAÇÃO    →  Análise e Desenvolvimento de Sistemas
+  FOCO        →  Back-End & Cibersegurança
+  STATUS      →  [ Aprendendo ] [ Construindo ] [ Evoluindo ]
 ```
 
 </div>
@@ -27,7 +27,7 @@
 
 </div>
 
-Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e desenvolvimento front-end. Atualmente construindo minha base em **React**, **JavaScript** e **Python**, enquanto curso o programa **Mulher Digital** e me preparo para o mercado tech. Cada linha de código é um passo rumo ao meu objetivo. ✨
+Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e com os olhos voltados para **Back-End** e **Cibersegurança**. Atualmente construindo minha base em **Python**, **React** e **JavaScript**, enquanto curso o programa **Mulher Digital** (trilha Cisco) e exploro o universo da segurança da informação. Cada linha de código é um passo rumo ao meu objetivo. ✨
 
 ---
 
