@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🌸 sobre mim
+###  sobre mim
 
 </div>
 
@@ -54,7 +54,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 
 | curso | instituição | status |
 |-------|-------------|--------|
-| Análise e Desenvolvimento de Sistemas | 🟣 em andamento |
+| Análise e Desenvolvimento de Sistemas | ViaSapiens | 🟣 em andamento |
 | Mulher Digital — Cibersegurança | Cisco | 🟣 em andamento |
 | Python + Comportamental | Instituto Algar / Oracle ONE | 🟣 em andamento |
 
