@@ -1,0 +1,41 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # roda a cada 6 horas
+  workflow_dispatch:         # permite rodar manualmente pela aba Actions
+  push:
+    branches: [main]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Baixar stats.svg
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=leticiaoliveira-gith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0" -o stats.svg
+
+      - name: Baixar langs.svg
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoliveira-gith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0" -o langs.svg
+
+      - name: Verificar se os SVGs são válidos
+        run: |
+          for f in stats.svg langs.svg; do
+            if ! grep -q "<svg" "$f"; then
+              echo "❌ $f não é um SVG válido (o serviço provavelmente falhou agora). Abortando sem commitar."
+              exit 1
+            fi
+          done
+
+      - name: Commitar apenas se algo mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg langs.svg
+          git diff --staged --quiet || (git commit -m "🔄 Atualiza stats do GitHub" && git push)
