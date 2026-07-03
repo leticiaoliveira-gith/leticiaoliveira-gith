@@ -16,19 +16,43 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      - name: Baixar stats.svg
+      - name: Baixar stats.svg (com retry)
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=leticiaoliveira-gith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0" -o stats.svg
+          URL="https://github-readme-stats.vercel.app/api?username=leticiaoliveira-gith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0"
+          for i in 1 2 3 4 5; do
+            echo "Tentativa $i de baixar stats.svg..."
+            curl -s "$URL" -o stats.svg
+            if grep -q "<svg" stats.svg; then
+              echo "✅ stats.svg baixado com sucesso na tentativa $i"
+              break
+            fi
+            echo "⚠️ Falhou. Conteúdo recebido:"
+            cat stats.svg
+            echo "Aguardando 15s antes de tentar de novo..."
+            sleep 15
+          done
 
-      - name: Baixar langs.svg
+      - name: Baixar langs.svg (com retry)
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoliveira-gith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0" -o langs.svg
+          URL="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoliveira-gith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0"
+          for i in 1 2 3 4 5; do
+            echo "Tentativa $i de baixar langs.svg..."
+            curl -s "$URL" -o langs.svg
+            if grep -q "<svg" langs.svg; then
+              echo "✅ langs.svg baixado com sucesso na tentativa $i"
+              break
+            fi
+            echo "⚠️ Falhou. Conteúdo recebido:"
+            cat langs.svg
+            echo "Aguardando 15s antes de tentar de novo..."
+            sleep 15
+          done
 
       - name: Verificar se os SVGs são válidos
         run: |
           for f in stats.svg langs.svg; do
             if ! grep -q "<svg" "$f"; then
-              echo "❌ $f não é um SVG válido (o serviço provavelmente falhou agora). Abortando sem commitar."
+              echo "❌ $f continua inválido depois de 5 tentativas. O serviço está fora do ar. Abortando sem commitar."
               exit 1
             fi
           done
