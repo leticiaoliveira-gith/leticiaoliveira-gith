@@ -66,9 +66,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 
 ### 📊 github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=leticiaoliveira-gith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0)
+![stats](https://github-readme-stats.vercel.app/api?username=leticiaoliveira-gith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&v=1)
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaoliveira-gith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=e2e8f0)
+
 
 </div>
 
