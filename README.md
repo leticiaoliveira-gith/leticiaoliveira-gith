@@ -22,10 +22,7 @@
 
 <div align="center">
 
-```diff
- Sobre Mim
-```
-
+<span style="color: red;">Sobre mim</span>
 
 </div>
 
