@@ -34,7 +34,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 <div align="center">
 
 ### 🛠️ tech stack
-### > Pilha Tecnológica
+### > Linguagens & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,vite)](https://skillicons.dev)
 
