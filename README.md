@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=ACESSO+CONCEDIDO+%7C+LET%C3%8DCIA+OLIVEIRA" alt="Animação de digitação" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Letícia%20Oliveira&fontSize=45&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=desenvolvedora%20em%20formação%20&descAlignY=58&descSize=16&descColor=a78bfa)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=INICIALIZANDO+SISTEMA...;ACESSO+CONCEDIDO+%7C+LET%C3%8DCIA+OLIVEIRA;CIBERSEGURAN%C3%87A+%7C+BACK-END;BEM-VINDO(A)+AO+MEU+GITHUB" alt="Animação de digitação" />
 <br><br>
