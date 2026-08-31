@@ -2,6 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Letícia%20Oliveira&fontSize=45&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=desenvolvedora%20em%20formação%20&descAlignY=58&descSize=16&descColor=a78bfa)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=INICIALIZANDO+SISTEMA...;ACESSO+CONCEDIDO+%7C+LET%C3%8DCIA+OLIVEIRA;CIBERSEGURAN%C3%87A+%7C+BACK-END;BEM-VINDO(A)+AO+MEU+GITHUB" alt="Animação de digitação" />
+
 <br><br>
 
 <img src="https://img.shields.io/badge/CIBERSEGURAN%C3%87A-0D1117?style=for-the-badge&logo=hackthebox&logoColor=c084fc" />
@@ -21,7 +23,7 @@
 
 <div align="center">
 
-### ✨ sobre mim
+###  sobre mim
 
 </div>
 
@@ -34,6 +36,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 ### 🛠️ tech stack
 
 **Linguagens e Marcação**
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,vite)](https://skillicons.dev)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
