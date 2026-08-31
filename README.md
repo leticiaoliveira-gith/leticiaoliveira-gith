@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<span style="color:c084fc;">Sobre mim</span>
+### sobre mim 👾
 
 </div>
 
