@@ -34,27 +34,15 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologi
 <div align="center">
 
 ### 🛠️ tech stack
-
-**Linguagens e Marcação**
+### > Pilha Tecnológica
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,vite)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-**Frameworks e Bibliotecas**
+### > Ferramentas & SO
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+[![My Tools](https://skillicons.dev/icons?i=docker,linux,git,github,vscode,notion)](https://skillicons.dev)
 
 </div>
 
