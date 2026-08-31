@@ -23,7 +23,7 @@
 <div align="center">
 
 ```diff
-@@ Sobre Mim @@
+ Sobre Mim
 ```
 
 
