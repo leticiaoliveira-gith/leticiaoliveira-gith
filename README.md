@@ -22,9 +22,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?section=header&text=Sobre%20mim&fontSize=20&fontColor=c084fc)
-
-###  sobre mim
+### ![Sobre Mim](https://shields.io)
 
 </div>
 
