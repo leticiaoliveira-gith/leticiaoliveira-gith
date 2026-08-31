@@ -22,6 +22,8 @@
 
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Sobre%20Ꝋmim&fontSize=45&fontColor=c084fc)
+
 ###  sobre mim
 
 </div>
