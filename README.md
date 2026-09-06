@@ -26,7 +26,7 @@
 
 </div>
 
-Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e com os olhos voltados para **Back-End** e **Cibersegurança**. Atualmente construindo minha base em **Python**, **React** e **JavaScript**, enquanto curso o programa **Mulher Digital** (trilha Cisco) e exploro o universo da segurança da informação. Cada linha de código é um passo rumo ao meu objetivo. 
+Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e com os olhos voltados para **Back-End** e **Cibersegurança**. Atualmente construindo minha base em **Python**, **React** e **JavaScript**, enquanto curso o programa **Mulher Digital** (trilha Cisco) e exploro o universo da segurança da informação. Cada linha de código é um passo rumo ao meu objetivo. 
 
 ---
 
