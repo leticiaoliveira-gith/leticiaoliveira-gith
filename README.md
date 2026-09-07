@@ -22,14 +22,6 @@
 
 <div align="center">
 
-### sobre mim 👾
-
-Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e com os olhos voltados para **Back-End** e **Cibersegurança**. Atualmente construindo minha base em **Python**, **React** e **JavaScript**, enquanto curso o programa **Mulher Digital** (trilha Cisco) e exploro o universo da segurança da informação. Cada linha de código é um passo rumo ao meu objetivo.
-
-
----
-
-
 <hr>
 
 <!-- SEÇÃO: SOBRE MIM -->
@@ -39,7 +31,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnolog
       <h2>✨ Sobre mim</h2>
       <p>Oie, eu sou a Letícia Oliveira! 👋</p>
       <p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) e Técnica em Informática.</p>
-      <p>Sou apaixonada por resolver problemas e otimizar processos. Atuo focada no desenvolvimento <b>Back-end</b> e na área de <b>Segurança da Informação</b>, construindo soluções com Python, SQL e automações inteligentes com IA (n8n, LangChain, RAG), além de aplicar conceitos sólidos de redes e cibersegurança (Cisco NetAcad).</p>
+      <p> Adoro resolver problemas e otimizar processos. Atuo focada no desenvolvimento <b>Back-end</b> e na área de <b>Segurança da Informação</b>, construindo soluções com Python, SQL e automações inteligentes com IA (n8n, LangChain, RAG), além de aplicar conceitos sólidos de redes e cibersegurança (Cisco NetAcad).</p>
       <p>Aqui no meu GitHub você encontra meus projetos, automações e laboratórios de estudo!</p>
     </td>
     <td align="center" valign="middle" width="30%">
