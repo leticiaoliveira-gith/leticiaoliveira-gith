@@ -29,6 +29,30 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnolog
 
 ---
 
+
+<hr>
+
+<!-- SEÇÃO: SOBRE MIM -->
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h2>✨ Sobre mim</h2>
+      <p>Oie, eu sou a Letícia Oliveira! 👋</p>
+      <p>Estudante de Análise e Desenvolvimento de Sistemas (ADS) e Técnica em Informática.</p>
+      <p>Sou apaixonada por resolver problemas e otimizar processos. Atuo focada no desenvolvimento <b>Back-end</b> e na área de <b>Segurança da Informação</b>, construindo soluções com Python, SQL e automações inteligentes com IA (n8n, LangChain, RAG), além de aplicar conceitos sólidos de redes e cibersegurança (Cisco NetAcad).</p>
+      <p>Aqui no meu GitHub você encontra meus projetos, automações e laboratórios de estudo!</p>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <img src="<img width="1024" height="966" alt="gatohub" src="https://github.com/user-attachments/assets/991fdc15-f2dd-48c8-9a5f-a67d81cc9b5a" />
+" width="220px" alt="Gatinho Ilustração" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+
+
 <div align="center">
 
 ### 🛠️ tech stack
