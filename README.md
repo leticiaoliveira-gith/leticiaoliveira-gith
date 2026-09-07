@@ -43,13 +43,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnolog
       <p>Aqui no meu GitHub você encontra meus projetos, automações e laboratórios de estudo!</p>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="<img width="1024" height="966" alt="gatohub" src="https://github.com/user-attachments/assets/991fdc15-f2dd-48c8-9a5f-a67d81cc9b5a" />
-" width="220px" alt="Gatinho Ilustração" style="border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/991fdc15-f2dd-48c8-9a5f-a67d81cc9b5a" width="220px" alt="Gatinho Ilustração" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
-
-<hr>
 
 
 
