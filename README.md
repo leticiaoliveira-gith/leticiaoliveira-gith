@@ -13,12 +13,6 @@
 
 </div>
 
-<div align="center">
-
-
-</div>
-
----
 
 <div align="center">
 
@@ -85,6 +79,33 @@
 </div>
 
 ---
+
+<!-- SEÇÃO: PROJETOS EM DESTAQUE -->
+<h2>🚀 Projetos em Destaque</h2>
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="30%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="160px" alt="Laptop Emoji">
+    </td>
+    <td valign="top" width="70%">
+      <br>
+      <p>
+        🤖 <b><a href="https://github.com/SEU_USUARIO/automax-ai-agente">automax-ai-agente</a></b> — <i>Agente de IA com RAG para consulta de documentos - AutoMax</i><br>
+        Sistema inteligente que utiliza arquitetura RAG e LangChain para processar e consultar documentos de forma contextualizada.
+        <br>🔗 <a href="https://github.com/SEU_USUARIO/automax-ai-agente">Ver Repositório</a>
+      </p>
+      <br>
+      <p>
+        🛡️ <b><a href="https://github.com/SEU_USUARIO/guardiao-de-senhas">guardião de senhas</a></b> — <i>Verificador de força de senha e vazamentos (API Have I Been Pwned)</i><br>
+        Ferramenta de Cibersegurança em Python para análise de complexidade e checagem de vazamentos via API REST com protocolo K-Anonymity.
+        <br>🔗 <a href="https://github.com/SEU_USUARIO/guardiao-de-senhas">Ver Repositório</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr>
 
 <div align="center">
 
