@@ -91,15 +91,21 @@
     <td valign="top" width="70%">
       <br>
       <p>
-        🤖 <b><a href="https://github.com/leticiaoliveira-gith/automax-ai-agent">automax-ai-agent</a></b> — <i>Agente de IA com RAG para consulta de documentos - AutoMax</i><br>
-        Sistema inteligente que utiliza arquitetura RAG e LangChain para processar e consultar documentos de forma contextualizada.
-        <br>🔗 <a href="https://github.com/leticiaoliveira-gith/automax-ai-agent">Ver Repositório</a>
-      </p>
-      <br>
-      <p>
         🛡️ <b><a href="https://github.com/leticiaoliveira-gith/password-guardian">password-guardian</a></b> — <i>Verificador de força de senha e vazamentos (API Have I Been Pwned)</i><br>
         Ferramenta de Cibersegurança em Python para análise de complexidade e checagem de vazamentos via API REST com protocolo K-Anonymity.
         <br>🔗 <a href="https://github.com/leticiaoliveira-gith/password-guardian">Ver Repositório</a>
+      </p>
+      <br>
+      <p>
+        🐧 <b><a href="https://github.com/leticiaoliveira-gith/monitoramento-nginx-devops">monitoramento-nginx-devops</a></b> — <i>Script de monitoramento automático do Nginx</i><br>
+        Automação em ambiente Linux utilizando Shell Script (Bash), Cron e SSH para verificação de disponibilidade de servidores web e geração de logs.
+        <br>🔗 <a href="https://github.com/leticiaoliveira-gith/monitoramento-nginx-devops">Ver Repositório</a>
+      </p>
+      <br>
+      <p>
+        🤖 <b><a href="https://github.com/leticiaoliveira-gith/automax-ai-agent">automax-ai-agent</a></b> — <i>Agente de IA com RAG para consulta de documentos - AutoMax</i><br>
+        Sistema inteligente que utiliza arquitetura RAG e LangChain para processar e consultar documentos de forma contextualizada.
+        <br>🔗 <a href="https://github.com/leticiaoliveira-gith/automax-ai-agent">Ver Repositório</a>
       </p>
     </td>
   </tr>
