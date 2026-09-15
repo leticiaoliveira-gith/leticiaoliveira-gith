@@ -80,38 +80,45 @@
 
 ---
 
-<!-- SEÇÃO: PROJETOS EM DESTAQUE -->
-<h2>🚀 Projetos em Destaque</h2>
+<h2>> Projects</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" valign="middle" width="30%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="160px" alt="Laptop Emoji">
+    <td width="33%" valign="top">
+      <h3>🛡️ Password Guardian</h3>
+      <p><b>Projeto Pessoal</b></p>
+      <p>Ferramenta para análise de complexidade de senhas e checagem de vazamentos via API Have I Been Pwned com protocolo K-Anonymity.</p>
+      <p>
+        <code>Python</code> <code>API REST</code> <code>Cybersecurity</code>
+      </p>
+      <a href="https://github.com/leticiaoliveira-gith/password-guardian">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+      </a>
     </td>
-    <td valign="top" width="70%">
-      <br>
+    <td width="33%" valign="top">
+      <h3>🤖 AutoMax AI Agent</h3>
+      <p><b>Projeto Pessoal</b></p>
+      <p>Agente de inteligência artificial construído com arquitetura RAG e LangChain para processamento e consulta contextualizada em documentos.</p>
       <p>
-        🛡️ <b><a href="https://github.com/leticiaoliveira-gith/password-guardian">password-guardian</a></b> — <i>Verificador de força de senha e vazamentos (API Have I Been Pwned)</i><br>
-        Ferramenta de Cibersegurança em Python para análise de complexidade e checagem de vazamentos via API REST com protocolo K-Anonymity.
-        <br>🔗 <a href="https://github.com/leticiaoliveira-gith/password-guardian">Ver Repositório</a>
+        <code>Python</code> <code>LangChain</code> <code>RAG</code> <code>IA</code>
       </p>
-      <br>
+      <a href="https://github.com/leticiaoliveira-gith/automax-ai-agent">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🐧 Nginx Monitor DevOps</h3>
+      <p><b>Projeto Pessoal</b></p>
+      <p>Automação em Linux utilizando Bash Script e Cron para monitoramento contínuo de servidores Nginx, validação de requisições e logs.</p>
       <p>
-        🐧 <b><a href="https://github.com/leticiaoliveira-gith/monitoramento-nginx-devops">monitoramento-nginx-devops</a></b> — <i>Script de monitoramento automático do Nginx</i><br>
-        Automação em ambiente Linux utilizando Shell Script (Bash), Cron e SSH para verificação de disponibilidade de servidores web e geração de logs.
-        <br>🔗 <a href="https://github.com/leticiaoliveira-gith/monitoramento-nginx-devops">Ver Repositório</a>
+        <code>Bash</code> <code>Linux</code> <code>DevOps</code> <code>Nginx</code>
       </p>
-      <br>
-      <p>
-        🤖 <b><a href="https://github.com/leticiaoliveira-gith/automax-ai-agent">automax-ai-agent</a></b> — <i>Agente de IA com RAG para consulta de documentos - AutoMax</i><br>
-        Sistema inteligente que utiliza arquitetura RAG e LangChain para processar e consultar documentos de forma contextualizada.
-        <br>🔗 <a href="https://github.com/leticiaoliveira-gith/automax-ai-agent">Ver Repositório</a>
-      </p>
+      <a href="https://github.com/leticiaoliveira-gith/monitoramento-nginx-devops">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+      </a>
     </td>
   </tr>
 </table>
-
-<hr>
 
 <div align="center">
 
